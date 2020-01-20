@@ -1,0 +1,15 @@
+server:
+  port: 8080
+
+spring:
+  application:
+  ## 应用名
+    name: provider
+  ## nacos服务地址
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+
+#自定义参数
+providerName: provider

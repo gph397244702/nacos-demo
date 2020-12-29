@@ -3,13 +3,13 @@ server:
 
 spring:
   application:
-  ## Ó¦ÓÃÃû
+  ## åº”ç”¨å
     name: provider
-  ## nacos·şÎñµØÖ·
+  ## nacosæœåŠ¡åœ°å€
   cloud:
     nacos:
       discovery:
         server-addr: 127.0.0.1:8848
 
-#×Ô¶¨Òå²ÎÊı
+#è‡ªå®šä¹‰å‚æ•°
 providerName: provider

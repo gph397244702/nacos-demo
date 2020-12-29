@@ -3,9 +3,9 @@ server:
 
 spring:
   application:
-    ## Ó¦ÓÃÃû
+    ## åº”ç”¨å
     name: consumer
-  ## nacos·şÎñµØÖ·
+  ## nacosæœåŠ¡åœ°å€
   cloud:
     nacos:
       discovery:
